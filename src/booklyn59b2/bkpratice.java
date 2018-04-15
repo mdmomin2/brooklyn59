@@ -6,4 +6,5 @@ public class bkpratice {
 	int a=100;
 	int b=78;
 	
+	string = 'hello'
 }
